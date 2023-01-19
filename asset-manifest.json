@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react_webpack_practice/static/css/main.29d8f845.css",
+    "main.js": "/react_webpack_practice/static/js/main.691da6b0.js",
+    "static/js/651.ab413dfd.chunk.js": "/react_webpack_practice/static/js/651.ab413dfd.chunk.js",
+    "static/media/GmarketSansMedium.woff": "/react_webpack_practice/static/media/GmarketSansMedium.03eaf662577931a3a5fb.woff",
+    "static/media/bazzi_200.png": "/react_webpack_practice/static/media/bazzi_200.8e5d762969a9e302805f.png",
+    "index.html": "/react_webpack_practice/index.html",
+    "main.29d8f845.css.map": "/react_webpack_practice/static/css/main.29d8f845.css.map",
+    "main.691da6b0.js.map": "/react_webpack_practice/static/js/main.691da6b0.js.map",
+    "651.ab413dfd.chunk.js.map": "/react_webpack_practice/static/js/651.ab413dfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29d8f845.css",
+    "static/js/main.691da6b0.js"
+  ]
+}
